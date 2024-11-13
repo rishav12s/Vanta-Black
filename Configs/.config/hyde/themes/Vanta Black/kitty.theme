@@ -2,56 +2,56 @@ $HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
 
 #Vanta Black by rishav12s
 
-foreground              #D9D9D9
+foreground              #FFFFFF
 background              #000000
 selection_foreground    #000000
-selection_background    #A6A6A6
+selection_background    #FFFFFF
 
-cursor                  #A6A6A6
-cursor_text_color       #D9D9D9
+cursor                  #FFFFFF
+cursor_text_color       #000000
 
-url_color               #D9D9D9
+url_color               #FFFFFF
 
-active_border_color     #595959
-inactive_border_color   #595959
-bell_border_color       #595959
+active_border_color     #FFFFFF
+inactive_border_color   #333333
+bell_border_color       #FFFFFF
 
 wayland_titlebar_color  system
 macos_titlebar_color    system
 
-active_tab_foreground   #D9D9D9
+active_tab_foreground   #FFFFFF
 active_tab_background   #000000
-inactive_tab_foreground #D9D9D9
+inactive_tab_foreground #FFFFFF
 inactive_tab_background #000000
-tab_bar_background      #D9D9D9
+tab_bar_background      #FFFFFF
 
-mark1_foreground #000000
-mark1_background #404040
-mark2_foreground #000000
-mark2_background #000000
-mark3_foreground #000000
-mark3_background #A6A6A6
+mark1_foreground        #000000
+mark1_background        #FFFFFF
+mark2_foreground        #000000
+mark2_background        #FFFFFF
+mark3_foreground        #000000
+mark3_background        #FFFFFF
 
-color0  #404040
-color8  #404040
+color0  #000000
+color8  #333333
 
-color1  #D9D9D9
-color9  #D9D9D9
+color1  #FFFFFF
+color9  #FFFFFF
 
-color2  #D9D9D9
-color10 #D9D9D9
+color2  #FFFFFF
+color10 #FFFFFF
 
-color3  #595959
-color11 #595959
+color3  #FFFFFF
+color11 #FFFFFF
 
-color4  #A6A6A6
-color12 #A6A6A6
+color4  #FFFFFF
+color12 #FFFFFF
 
-color5  #A6A6A6
-color13 #A6A6A6
+color5  #FFFFFF
+color13 #FFFFFF
 
-color6  #A6A6A6
-color14 #A6A6A6
+color6  #FFFFFF
+color14 #FFFFFF
 
-color7  #D9D9D9
-color15 #D9D9D9
+color7  #FFFFFF
+color15 #FFFFFF
