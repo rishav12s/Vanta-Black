@@ -14,12 +14,12 @@ exec = Hyde cursor theme '$CURSOR_THEME' size $CURSOR_SIZE
 exec = Hyde code theme '$CODE_THEME'
 
 general {
-    border_size = 3
-    col.inactive_border = rgba(1a1a1ab0)
-    col.active_border = rgba(ffffffee) rgba(bfbfbfb0) rgba(bfbfbfb0) rgba(ffffffee) 45deg
-
     gaps_in = 5
     gaps_out = 10
+    border_size = 3
+    col.active_border = rgba(ffffffee) rgba(bfbfbfb0) rgba(bfbfbfb0) rgba(ffffffee) 45deg
+    col.inactive_border = rgba(2a2a2ab0) rgba(3c3c3cb0) rgba(3c3c3cb0) rgba(2a2a2ab0) 45deg
+    resize_on_border = yes
 }
 
 decoration {
